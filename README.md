@@ -18,6 +18,8 @@
   [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/googoldkhan/full/xxqrvGJ)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Personal-Portfolio-Webpage)
 
+  ![Responsive-Web-Design](Certificates/Responsive-Web-Design)
+
 ## Javascript Algorithms and Data Structures Projects
 
 - **Palindrome Checker**  
@@ -30,6 +32,8 @@
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/JavaScript-DSA/blob/main/TelephoneNumberValidator.js)
 - **Cash Register**  
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/JavaScript-DSA/blob/main/CashRegister.js)
+
+  ![JavaScript-Algorithms-and-Data-Structures](Certificates/JavaScript-Algorithms-and-Data-Structures)
 
 ## Front End Development Libraries Projects
 
@@ -49,6 +53,8 @@
   [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/googoldkhan/full/vYxQmPX)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Pomodoro-Clock)
 
+  ![Front-End-Development-Libraries](Certificates/Front-End-Development-Libraries)
+
 ## Data Visualization Projects
 
 - **Visualize Data with a Bar Chart**  
@@ -66,6 +72,8 @@
 - **Visualize Data with a Treemap Diagram**  
   [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/googoldkhan/full/gOmVgNV)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Treemap-Diagram)
+
+  ![Data-Visualization](Certificates/Data-Visualization)
 
 ## APIs And Microservices Projects
 
@@ -85,4 +93,4 @@
   [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-filemetadata.googoldkhan.repl.co/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/File-Metadata-Microservice)
 
-https://github.com/GoogolDKhan/Tribute-Page
+  ![Back-End-Development-and-APIs](Certificates/Back-End-Development-and-APIs)

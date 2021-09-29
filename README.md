@@ -18,7 +18,7 @@
   [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/googoldkhan/full/xxqrvGJ)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Personal-Portfolio-Webpage)
 
-  ![Responsive-Web-Design](Certificates/Responsive-Web-Design)
+  ![Responsive-Web-Design](https://github.com/GoogolDKhan/freeCodeCamp-Projects/blob/main/Certificates/Responsive-Web-Design.png)
 
 ## Javascript Algorithms and Data Structures Projects
 
@@ -33,7 +33,7 @@
 - **Cash Register**  
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/JavaScript-DSA/blob/main/CashRegister.js)
 
-  ![JavaScript-Algorithms-and-Data-Structures](Certificates/JavaScript-Algorithms-and-Data-Structures)
+  ![JavaScript-Algorithms-and-Data-Structures](https://github.com/GoogolDKhan/freeCodeCamp-Projects/blob/main/Certificates/JavaScript-Algorithms-and-Data-Structures.png)
 
 ## Front End Development Libraries Projects
 
@@ -53,7 +53,7 @@
   [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/googoldkhan/full/vYxQmPX)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Pomodoro-Clock)
 
-  ![Front-End-Development-Libraries](Certificates/Front-End-Development-Libraries)
+  ![Front-End-Development-Libraries](https://github.com/GoogolDKhan/freeCodeCamp-Projects/blob/main/Certificates/Front-End-Development-Libraries.png)
 
 ## Data Visualization Projects
 
@@ -73,7 +73,7 @@
   [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/googoldkhan/full/gOmVgNV)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Treemap-Diagram)
 
-  ![Data-Visualization](Certificates/Data-Visualization)
+  ![Data-Visualization](https://github.com/GoogolDKhan/freeCodeCamp-Projects/blob/main/Certificates/Data-Visualization.png)
 
 ## APIs And Microservices Projects
 
@@ -93,4 +93,4 @@
   [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-filemetadata.googoldkhan.repl.co/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/File-Metadata-Microservice)
 
-  ![Back-End-Development-and-APIs](Certificates/Back-End-Development-and-APIs)
+  ![Back-End-Development-and-APIs](https://github.com/GoogolDKhan/freeCodeCamp-Projects/blob/main/Certificates/Back-End-Development-and-APIs.png)

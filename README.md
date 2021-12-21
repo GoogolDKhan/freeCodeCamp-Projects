@@ -75,7 +75,7 @@
 
   [![Data-Visualization](https://github.com/GoogolDKhan/freeCodeCamp-Projects/blob/main/Certificates/Data-Visualization.png)](https://www.freecodecamp.org/certification/sarfarazkhan/data-visualization)
 
-## APIs And Microservices Projects
+## Back End Development and APIs Projects
 
 - **Timestamp Microservice**  
   [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-timestamp.googoldkhan.repl.co/)
@@ -87,10 +87,30 @@
   [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-urlshortener.googoldkhan.repl.co/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/URL-Shortener-Microservice)
 - **Exercise Tracker**  
-  [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://sarfaraz-project-exercisetracker.googoldkhan.repl.co/)
+  [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-exercisetracker.googoldkhan.repl.co/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Exercise-Tracker)
 - **File Metadata Microservice**  
   [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-filemetadata.googoldkhan.repl.co/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/File-Metadata-Microservice)
 
   [![Back-End-Development-and-APIs](https://github.com/GoogolDKhan/freeCodeCamp-Projects/blob/main/Certificates/Back-End-Development-and-APIs.png)](https://www.freecodecamp.org/certification/sarfarazkhan/back-end-development-and-apis)
+
+## Quality Assurance Projects
+
+- **Metric-Imperial Converter**  
+  [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-metricimpconverter.googoldkhan.repl.co/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Metric-Imperial-Converter)
+- **Issue Tracker**  
+  [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-issuetracker.googoldkhan.repl.co/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Issue-Tracker)
+- **Personal Library**  
+  [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-library.googoldkhan.repl.co/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Personal-Library)
+- **Sudoku Solver**  
+  [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-sudoku-solver.googoldkhan.repl.co/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/Sudoku-Solver)
+- **American British Translator**  
+  [![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://project-american-british-english-translator.googoldkhan.repl.co/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoogolDKhan/American-British-Translator)
+
+  [![Back-End-Development-and-APIs](https://github.com/GoogolDKhan/freeCodeCamp-Projects/blob/main/Certificates/Quality-Assurance.png)](https://www.freecodecamp.org/certification/sarfarazkhan/quality-assurance-v7)
